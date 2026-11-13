@@ -1,0 +1,5 @@
+*.xlsx
+seoul_bike_data.xlsx
+csgo_round_snapshots.xlsx
+.ipynb_checkpoints/
+__pycache__/
