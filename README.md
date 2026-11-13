@@ -70,8 +70,8 @@ O notebook tambem apresenta comparacao direta entre valores reais e previstos, g
 
 1. Clone o repositorio:
    ```bash
-   git clone https://github.com/LuizSantiagojpg/atividade-somativa-1-nba.git
-   cd atividade-somativa-1-nba
+   git clone https://github.com/LuizSantiagojpg/nba-winshares-ml.git
+   cd nba-winshares-ml
    ```
 2. Instale as dependencias principais:
    ```bash
